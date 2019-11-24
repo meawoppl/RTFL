@@ -49,4 +49,4 @@ Without a single source of truth your protections are weaker.
 Which of several competing licenses apply is less clear and overall weakens your protections.
 
 # So what should I do?
-This repository is here to help.
+This [rtfl.io](http://rtfl.io) is here to help.
