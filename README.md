@@ -6,7 +6,7 @@ Read The (Freely Hosted) License
 Why you might ask?  Here are a few reasons:
 
 ## It makes you look old
-Basically every modern language has accepted a repository cantered view of licensing with a single
+Basically every modern language has accepted a repository centered view of licensing with a single
 top level file (**[repo_root]/LICENSE**) which integrates with build-system, IDE, code-hosting, indexing, and search.
 
 ## There is no legal benefit:
