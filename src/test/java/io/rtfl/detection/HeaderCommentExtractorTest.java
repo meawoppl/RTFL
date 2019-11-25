@@ -70,5 +70,4 @@ public class HeaderCommentExtractorTest extends Assertions {
 
     gotFirstLineLastLine(lines);
   }
-
 }
